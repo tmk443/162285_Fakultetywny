@@ -1,0 +1,37 @@
+Budżet(czas) - 150 roboczogodzin
+Cel projektu - aplikacja webowa, posiadająca mapę wszystkich dostępnych kebabów w mieście, wyświetlając przy tym opinie, oraz menu, pozwalając na ocenianie oraz dawanie własnych opinii.
+Odpowiedzialności(role w zespole) -
+	Programista backend(stworzenie backendu aplikacji),
+	programista frontend(stworzenie frontendu aplikacji),
+	tester(testowanie i wyszukiwanie błędów w aplikacji),
+	kierownik(zarządza całym zespołem, rozdziela zadania)
+	
+
+Wizja - Aplikacja webowa, posiadająca mapę wszystkich dostępnych kebabów w mieście, wyświetlając przy tym opinie, oraz menu, pozwalając na ocenianie oraz dawanie własnych opinii.
+
+Wartość biznesowa - 
+	Udostępnienie platformy dla klientów w celu reklamowania ich produktów
+
+Zakres - 
+	Podłączenie mapy
+	Panel opinii
+	Ranking na podstawie ocen
+	Panel menu restauracji
+	Wyszukiwanie restauracji na mapie	
+	
+	
+Role w projekcie - 
+	Programista backend
+	programista frontend
+	Project Manager
+	Test Manager
+	Technical Lead
+
+KPI - 
+	rozdzielenie ról w zespole
+	wyznaczenie deadline'u
+	stworzenie bazy danych
+	stworzenie aplikacji
+	przetestowanie aplikacji
+	wzdrożenie aplikacji
+			
